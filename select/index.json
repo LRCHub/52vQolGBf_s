@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Golden Life",
+  "base_artist": "AKINO with bless4",
+  "createdAt": "2025-12-31T11:33:51.964936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Golden Life",
+      "artist": "Dragon Ash",
+      "has_synced": true,
+      "path": "select/01_Golden_Life_Dragon_Ash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Golden Life (feat. AmA)",
+      "artist": "Dubblestandart",
+      "has_synced": false,
+      "path": "select/02_Golden_Life_(feat._AmA)_Dubblestandart.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Golden Life",
+      "artist": "AKINO with bless4",
+      "has_synced": false,
+      "path": "select/pl_01_Golden_Life_AKINO_with_bless4.txt"
+    }
+  ]
+}
